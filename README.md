@@ -1,13 +1,14 @@
-# SilverBullet
+# SilverBulletSpain
 - - - -
 
 OpenBullet is a webtesting suite that allows to perform requests towards a target webapp and offers a lot of tools to work with the results. This software can be used for **scraping** and **parsing data**, automated **pentesting**, unit testing through **selenium** and much more.
 
 **IMPORTANT!** Performing (D)DoS attacks or credential stuffing on sites you do not own (or you do not have permission to test) is **illegal!** The developer will not be held responsible for improper use of this software.
 
-![Runner](https://i.ibb.co/jL7NBpq/sbshot-1.png)
+![Runner](https://i.ibb.co/BBbJbyb/obspain-template.png)
 
-Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-issue)
+Found a bug? [Sorry!](...)
+OpenBullet 1 has reached the end of its useful life, no further support will be provided. Consider switching to OpenBullet 2 as it will stay current and offer many more features.
 
 # How to build
 0. Make sure you have installed the .NET framework (dev) 4.7.2.
@@ -22,9 +23,14 @@ Found a bug? [Create an issue!](https://help.github.com/en/articles/creating-an-
 # License
 This software is licensed under the MIT License.
 
-# Donate
-If you like this software, consider making a donation to the developer. Thank you!
-- BTC: **1PbFK28PGsXy1VQG4PBdofLqDdRW4LJ8TS**
+#Credit
+Quiero agradecer a toda la comunidad por sus aportes a OpenBullet / SilverBullet especialmente hacia Ruri Demiurgo Meinname y Mohama.
 
-# Contact
-Telegram: mohamm4dx
+# Donate
+If you like this software, consider making a donation to the developer. Thank you! 
+
+Ruri: BTC: 39yMkox6pP8tnSC7rZ5EM4nUUHgPbg1fKM 
+Mohama: BTC: 1PbFK28PGsXy1VQG4PBdofLqDdRW4LJ8TS
+
+
+Thank you! 
